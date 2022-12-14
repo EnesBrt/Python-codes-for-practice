@@ -4,7 +4,9 @@ Welcome to the Python Practice Repo! This repository is dedicated to providing a
 
 ## Getting Started
 
-To get started with the codes in this repo, you will need to have Python installed on your machine. You can download Python [here](https://www.python.org/downloads/).
+To get started with the codes in this repo, you will need to have a text editor or IDE for writing and running Python codes and Python installed on your machine. You can download Python [here](https://www.python.org/downloads/).
+
+-   Python 3.8 or later
 
 Once you have Python installed, clone this repository onto your machine by running the following command in your terminal:
 
@@ -14,7 +16,11 @@ Copy code
 
 ## Code Overview
 
-The scripts cover a variety of topics, including data manipulation, basic algorithms, and object-oriented programming
+The codes in this repository are organized into different folders, The following scripts are included in this repository:
+
+hello_world.py - A simple script that prints "Hello, world!" to the console
+fibonacci.py - A script that generates the first n numbers in the fibonacci sequence
+calculator.py - A simple calculator that can perform basic arithmetic operations.
 
 To run a code, navigate to the directory containing the code and run the following command in your terminal:
 
