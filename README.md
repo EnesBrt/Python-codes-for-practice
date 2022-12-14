@@ -4,7 +4,7 @@ Welcome to the Python Practice Repo! This repository is dedicated to providing a
 
 ## Getting Started
 
-To get started with the codes in this repo, you will need to have a text editor or IDE for writing and running Python codes and Python installed on your machine. You can download Python [here](https://www.python.org/downloads/).
+To get started with the codes in this repo, you will need to have Python installed on your machine and a text editor or IDE for writing and running Python codes. You can download Python [here](https://www.python.org/downloads/).
 
 -   Python 3.8 or later
 
