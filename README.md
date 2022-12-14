@@ -19,7 +19,7 @@ The codes in this repository are organized into different categories to help you
 -   Basic Python concepts (e.g. loops, conditionals, functions)
 -   Data structures and algorithms
 
-Each code is accompanied by a brief description and instructions on how to run it. To run a code, navigate to the directory containing the code and run the following command in your terminal:
+To run a code, navigate to the directory containing the code and run the following command in your terminal:
 
 Copy code
 
