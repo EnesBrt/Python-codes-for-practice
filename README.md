@@ -14,10 +14,7 @@ Copy code
 
 ## Code Overview
 
-The codes in this repository are organized into different categories to help you focus on specific topics or skills. Some examples of categories include:
-
--   Basic Python concepts (e.g. loops, conditionals, functions)
--   Data structures and algorithms
+The scripts cover a variety of topics, including data manipulation, basic algorithms, and object-oriented programming
 
 To run a code, navigate to the directory containing the code and run the following command in your terminal:
 
