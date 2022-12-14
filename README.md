@@ -18,9 +18,19 @@ Copy code
 
 The codes in this repository are organized into different folders, The following scripts are included in this repository:
 
-hello_world.py - A simple script that prints "Hello, world!" to the console
-fibonacci.py - A script that generates the first n numbers in the fibonacci sequence
-calculator.py - A simple calculator that can perform basic arithmetic operations.
+- black_jack.py - A casino game
+
+- hangman_words.py - A word guessing game
+
+- calculator.py - A simple calculator that can perform basic arithmetic operations
+
+- question_model.py - a quizz game made with object oriented programming
+
+- snake.py - A snake game made with object oriented programming
+
+- guess_a_number.py - A simple guessing game where a user is supposed to guess a number between 0 and N
+
+and much more.
 
 To run a code, navigate to the directory containing the code and run the following command in your terminal:
 
