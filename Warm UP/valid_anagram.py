@@ -1,4 +1,6 @@
 # Fonction pour trouver si deux chaînes sont des anagrammes
+
+
 def find_anagram(s, t):
     # Initialisation de deux dictionnaires pour compter les caractères dans 's' et 't'
     char_count_s = {}
