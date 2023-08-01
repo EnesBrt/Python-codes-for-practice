@@ -11,6 +11,6 @@ def three_numbers():
 
     print(result)
 
-
-
-three_numbers()
+if __name__== '__main__':
+    
+    three_numbers()
